@@ -19,7 +19,7 @@ To write a program to perform selection sort and insertion sort using python pro
 5.	Repeat the steps 2 to 4 for sorting all the elements in the array.
 ## Programs:
 
-## pr0gram 1
+## program 1
 ```
 
 Program to sort the elements in the list using the Selection Sort algorithm.
